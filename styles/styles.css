@@ -20,6 +20,8 @@ body{
     align-items: center;
     gap: 100px;
     margin-bottom: 100px;
+    justify-content: center;
+    margin-left: -350px;
 }
 
 .draw-options-container{
